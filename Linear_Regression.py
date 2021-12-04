@@ -49,3 +49,6 @@ plt.xlabel("Ages")
 plt.ylabel("Net Worth")
 plt.legend(loc=2)
 plt.show()
+
+#Simple Linear Regression =(y=mx+c)
+#Multiple Linear Regression=(y=c+ m1x1 +m..x..)
